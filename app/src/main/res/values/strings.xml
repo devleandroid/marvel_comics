@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Marvel Comics</string>
+    <string name="main_title">Characters</string>
+    <string name="character_label">MarvelCharacter:</string>
+    <string name="character_hint">Enter name...</string>
+    <string name="show">Show</string>
+    <string name="offline_message">No internet connection, Offline data!</string>
+    <string name="go_online">Go Online</string>
+    <string name="retry_message">An error happened</string>
+    <string name="retry">Retry</string>
+    <string name="character_error">please enter a marvelCharacter name</string>
+    <string name="please_wait">Loading data, please wait…</string>
+    <string name="no_result">The entered name is wrong</string>
+    <string name="recent_searches_label">Your recent searches:</string>
+    <string name="no_recent">no recent search</string>
+</resources>
